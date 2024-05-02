@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pete __ a teacher.",
+      "options": [
+        { "id": "a", "text": "not" },
+        { "id": "b", "text": "aren't" },
+        { "id": "c", "text": "am not" },
+        { "id": "d", "text": "isn't" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 2,
+      "question": "Bill __ two brothers.",
+      "options": [
+        { "id": "a", "text": "have" },
+        { "id": "b", "text": "has" },
+        { "id": "c", "text": "is" },
+        { "id": "d", "text": "are" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 3,
+      "question": "A: __ Italian food?\nB: Yes, I do.",
+      "options": [
+        { "id": "a", "text": "Are you like" },
+        { "id": "b", "text": "Likes" },
+        { "id": "c", "text": "Do you like" },
+        { "id": "d", "text": "You're like" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 4,
+      "question": "A: Was Shakespeare a painter?\nB: No, he __.",
+      "options": [
+        { "id": "a", "text": "weren't" },
+        { "id": "b", "text": "didn't" },
+        { "id": "c", "text": "isn't" },
+        { "id": "d", "text": "wasn't" }
+      ],
+      "correctAnswer": "d"
+    }
+  ]
+}
