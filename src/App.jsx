@@ -1,17 +1,25 @@
-import { useState } from "react";
-import RegisterPage from "./pages/RegisterPage";
+import { useState } from 'react';
+import { Routes, Route } from 'react-router-dom';
+
+import RegisterPage from './pages/RegisterPage';
+import HomePage from './pages/HomePage';
 
 function App() {
-
   const [user, setUser] = useState({});
 
   const saveUser = (currentUser) => {
-    setUser({...currentUser})
-  }
+    setUser({ ...currentUser });
+  };
 
   return (
     <>
-      <RegisterPage saveUser={saveUser}/>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route
+          path="/register"
+          element={<RegisterPage saveUser={saveUser} />}
+        />
+      </Routes>
     </>
   );
 }
