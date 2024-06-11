@@ -10,6 +10,7 @@ const HomePage = () => {
         label="Next"
         type="button"
         handlerFunction={() => navigate('/register')}
+        className="next-button"
       />
     </>
   );

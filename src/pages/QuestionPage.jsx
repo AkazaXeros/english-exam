@@ -1,13 +1,14 @@
 import { useState } from 'react';
 import { questions } from '../data/exam.json';
-
 import Question from '../components/Question/Question';
 import Button from '../components/UI/Button';
+import styles from './QuestionPage.module.css';
 
 const data = questions;
 
 const QuestionPage = () => {
   const [index, setIndex] = useState(0);
+  const [selectedOption, setSelectedOption] = useState(null);
 
   const buttonHandler = (identifier) => {
     if (identifier === 'next') {
@@ -19,12 +20,34 @@ const QuestionPage = () => {
       }
     }
   };
+
+  if (index > 3) return <h2>End of mock up</h2>;
+
   return (
-    <>
-      <Question data={data[index]} />;
-      <Button label={'Next'} handler={buttonHandler} />
-      {index && <Button label={'Back'} handler={buttonHandler} />}
-    </>
+    <section className={styles.section}>
+      <div className={styles.cardWrapper}>
+        <Question
+          data={data[index]}
+          setSelectedOption={setSelectedOption}
+          selectedOption={selectedOption}
+        />
+      </div>
+      <div className={styles.buttonContainer}>
+        {index > 0 && (
+          <Button
+            label={'Back'}
+            handlerFunction={() => buttonHandler('back')}
+            className="back-button"
+          />
+        )}
+        <Button
+          label={'Next'}
+          handlerFunction={() => buttonHandler('next')}
+          className="next-button"
+        />
+      </div>
+    </section>
   );
 };
+
 export default QuestionPage;

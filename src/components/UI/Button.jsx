@@ -1,6 +1,13 @@
-const Button = ({label, type, handlerFunction}) => {
+const Button = ({
+  label,
+  type = 'button',
+  handlerFunction,
+  className = '',
+}) => {
   return (
-      <button onClick={handlerFunction} type={type}>{ label }</button>
-  )
-}
-export default Button
+    <button onClick={handlerFunction} type={type} className={className}>
+      {label}
+    </button>
+  );
+};
+export default Button;

@@ -1,17 +1,23 @@
-import { useState } from 'react';
 import styles from './QuestionCard.module.css';
 
-const Question = ({ data }) => {
-  const [selectedOption, setSelectedOption] = useState(null);
-
+const Question = ({ data, setSelectedOption, selectedOption }) => {
   const handleOptionClick = (id) => {
     setSelectedOption(id);
   };
 
+  // Split question text based on newline and handle A: B: parts
+  const splitQuestionText = data.question.split('\n');
+
   return (
-    <section className={styles.card}>
+    <div className={styles.card}>
       <h2>
-        {data.id}. {data.question}
+        {data.id}.{' '}
+        {splitQuestionText.map((part, index) => (
+          <span key={index}>
+            {part}
+            <br />
+          </span>
+        ))}
       </h2>
       <ul>
         {data.options.map((option) => (
@@ -24,7 +30,7 @@ const Question = ({ data }) => {
           </li>
         ))}
       </ul>
-    </section>
+    </div>
   );
 };
 

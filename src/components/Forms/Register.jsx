@@ -1,8 +1,11 @@
 //TODO: Incluir fecha de nacimiento, nacionalidad y lugar de residencia.
 
 import { useState } from 'react';
-import Button from '../UI/Button';
 import { useNavigate } from 'react-router-dom';
+
+import styles from './Register.module.css';
+
+import Button from '../UI/Button';
 
 const Register = ({ userHandler }) => {
   const [userName, setUserName] = useState('');
@@ -45,7 +48,7 @@ const Register = ({ userHandler }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} className={styles.form}>
       <label htmlFor="username">Full Name</label>
       <input
         id="username"
@@ -81,7 +84,7 @@ const Register = ({ userHandler }) => {
         value={nationality}
         required
       />
-      <label htmlFor="city">City</label>
+      <label htmlFor="city">City of Residence</label>
       <input
         id="city"
         type="text"
@@ -94,6 +97,7 @@ const Register = ({ userHandler }) => {
         type="submit"
         handlerFunction={() => console.log('Button clicked')}
         label="Submit"
+        className="register-button"
       />
     </form>
   );

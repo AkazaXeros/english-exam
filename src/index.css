@@ -7,4 +7,97 @@
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
   list-style: none;
+  user-select: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+/* Button styles */
+.next-button {
+  background-color: #fff;
+  color: #28a745;
+  border: 2px solid #28a745;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.next-button:hover {
+  background-color: #28a745;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.next-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);
+}
+
+.back-button {
+  background-color: #fff;
+  color: #dc3545;
+  border: 2px solid #dc3545;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+.back-button:hover {
+  background-color: #dc3545;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.back-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.5);
+}
+
+.register-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.register-submit-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.register-submit-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+}
+
+
+/* Additional button styles */
+.register-button-primary {
+  background-color: #007bff;
+}
+
+.register-button-primary:hover {
+  background-color: #0056b3;
+}
+
+.register-button-secondary {
+  background-color: #6c757d;
+}
+
+.register-button-secondary:hover {
+  background-color: #5a6268;
 }
