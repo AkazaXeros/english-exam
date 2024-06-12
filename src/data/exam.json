@@ -43,6 +43,2214 @@
         { "id": "d", "text": "wasn't" }
       ],
       "correctAnswer": "d"
-    }
+    },
+    {
+      "id": 5,
+      "question": "__ up early yesterday morning?",
+      "options": [
+          {
+              "id": "a",
+              "text": "Got"
+          },
+          {
+              "id": "b",
+              "text": "Did you"
+          },
+          {
+              "id": "c",
+              "text": "You get"
+          },
+          {
+              "id": "d",
+              "text": "Did you get"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 6,
+      "question": "A: Good night.\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "That's great. Thank you."
+          },
+          {
+              "id": "b",
+              "text": "No, I don't know."
+          },
+          {
+              "id": "c",
+              "text": "You too. Sleep well."
+          },
+          {
+              "id": "d",
+              "text": "Hello. How are you?"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 7,
+      "question": "A: How do you spell 'friend'?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "It's Miguel."
+          },
+          {
+              "id": "b",
+              "text": "F-R-I-E-N-D."
+          },
+          {
+              "id": "c",
+              "text": "My surname is Jackson."
+          },
+          {
+              "id": "d",
+              "text": "Yes, he is."
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 8,
+      "question": "A: How much is the camera?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "It's on page thirty."
+          },
+          {
+              "id": "b",
+              "text": "It's from Spain."
+          },
+          {
+              "id": "c",
+              "text": "It's about six months old."
+          },
+          {
+              "id": "d",
+              "text": "It's fifty pounds."
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 9,
+      "question": "A: Excuse me. How do I get to the bus station?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "In Oxford Street."
+          },
+          {
+              "id": "b",
+              "text": "Yes, that's right."
+          },
+          {
+              "id": "c",
+              "text": "It's about ten minutes."
+          },
+          {
+              "id": "d",
+              "text": "Go out of the school and turn right."
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 10,
+      "question": "A: What time were you born?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "My birthday's in August."
+          },
+          {
+              "id": "b",
+              "text": "On the third of March."
+          },
+          {
+              "id": "c",
+              "text": "At six o'clock in the morning."
+          },
+          {
+              "id": "d",
+              "text": "In 1999."
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 11,
+      "question": "John isn't Alice's __. They aren't married.",
+      "options": [
+          {
+              "id": "a",
+              "text": "husband"
+          },
+          {
+              "id": "b",
+              "text": "wife"
+          },
+          {
+              "id": "c",
+              "text": "father"
+          },
+          {
+              "id": "d",
+              "text": "mother"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 12,
+      "question": "What do they speak in __?",
+      "options": [
+          {
+              "id": "a",
+              "text": "Spanish"
+          },
+          {
+              "id": "b",
+              "text": "Portuguese"
+          },
+          {
+              "id": "c",
+              "text": "American"
+          },
+          {
+              "id": "d",
+              "text": "Brazil"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 13,
+      "question": "Your car keys are in the __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "lamp"
+          },
+          {
+              "id": "b",
+              "text": "armchair"
+          },
+          {
+              "id": "c",
+              "text": "drawer"
+          },
+          {
+              "id": "d",
+              "text": "sofa"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 14,
+      "question": "We __ a painting for \u20ac500.",
+      "options": [
+          {
+              "id": "a",
+              "text": "were"
+          },
+          {
+              "id": "b",
+              "text": "said"
+          },
+          {
+              "id": "c",
+              "text": "bought"
+          },
+          {
+              "id": "d",
+              "text": "heard"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 15,
+      "question": "Do you play __?",
+      "options": [
+          {
+              "id": "a",
+              "text": "ice hockey"
+          },
+          {
+              "id": "b",
+              "text": "the cinema"
+          },
+          {
+              "id": "c",
+              "text": "holidays"
+          },
+          {
+              "id": "d",
+              "text": "sailing"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 16,
+      "question": "David and Angela are __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "brother and sister"
+          },
+          {
+              "id": "b",
+              "text": "married"
+          },
+          {
+              "id": "c",
+              "text": "doctors"
+          },
+          {
+              "id": "d",
+              "text": "bank managers"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 17,
+      "question": "Angela is Susan's __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "sister"
+          },
+          {
+              "id": "b",
+              "text": "father"
+          },
+          {
+              "id": "c",
+              "text": "mother"
+          },
+          {
+              "id": "d",
+              "text": "brother"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 18,
+      "question": "Robert isn't __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "a student"
+          },
+          {
+              "id": "b",
+              "text": "a child"
+          },
+          {
+              "id": "c",
+              "text": "a doctor"
+          },
+          {
+              "id": "d",
+              "text": "Susan's brother"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 19,
+      "question": "David, Angela, Robert and Susan went to the park __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "at night"
+          },
+          {
+              "id": "b",
+              "text": "in the evening"
+          },
+          {
+              "id": "c",
+              "text": "in the afternoon"
+          },
+          {
+              "id": "d",
+              "text": "in the morning"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 20,
+      "question": "David __ breakfast.",
+      "options": [
+          {
+              "id": "a",
+              "text": "didn't enjoy"
+          },
+          {
+              "id": "b",
+              "text": "bought"
+          },
+          {
+              "id": "c",
+              "text": "cooked"
+          },
+          {
+              "id": "d",
+              "text": "didn't have"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 21,
+      "question": "Can you __ French?",
+      "options": [
+          {
+              "id": "a",
+              "text": "to speak"
+          },
+          {
+              "id": "b",
+              "text": "speaks"
+          },
+          {
+              "id": "c",
+              "text": "spoke"
+          },
+          {
+              "id": "d",
+              "text": "speak"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 22,
+      "question": "They __ at home last night.",
+      "options": [
+          {
+              "id": "a",
+              "text": "isn't"
+          },
+          {
+              "id": "b",
+              "text": "aren't"
+          },
+          {
+              "id": "c",
+              "text": "wasn't"
+          },
+          {
+              "id": "d",
+              "text": "weren't"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 23,
+      "question": "I __ to my brother right now.",
+      "options": [
+          {
+              "id": "a",
+              "text": "'m talking"
+          },
+          {
+              "id": "b",
+              "text": "talk"
+          },
+          {
+              "id": "c",
+              "text": "talking"
+          },
+          {
+              "id": "d",
+              "text": "talked"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 24,
+      "question": "__ to stay home and watch TV.",
+      "options": [
+          {
+              "id": "a",
+              "text": "I'm going"
+          },
+          {
+              "id": "b",
+              "text": "I going"
+          },
+          {
+              "id": "c",
+              "text": "Going"
+          },
+          {
+              "id": "d",
+              "text": "Am going"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 25,
+      "question": "Helena has never __ to Australia.",
+      "options": [
+          {
+              "id": "a",
+              "text": "went"
+          },
+          {
+              "id": "b",
+              "text": "go"
+          },
+          {
+              "id": "c",
+              "text": "goes"
+          },
+          {
+              "id": "d",
+              "text": "been"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 26,
+      "question": "A: __\nB: Sure. Good idea.",
+      "options": [
+          {
+              "id": "a",
+              "text": "What does 'bilingual' mean?"
+          },
+          {
+              "id": "b",
+              "text": "Can I open a window? It's hot in here."
+          },
+          {
+              "id": "c",
+              "text": "I like your jumper."
+          },
+          {
+              "id": "d",
+              "text": "Excuse me! Can you help me?"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 27,
+      "question": "A: There's an Internet caf\u00e9 in Park Lane, next to the bank.\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "Is that near here?"
+          },
+          {
+              "id": "b",
+              "text": "Just two minutes, that's all."
+          },
+          {
+              "id": "c",
+              "text": "Do you need some money?"
+          },
+          {
+              "id": "d",
+              "text": "Go straight ahead."
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 28,
+      "question": "A: __\nB: No, it isn't.",
+      "options": [
+          {
+              "id": "a",
+              "text": "Can I speak to Emma, please?"
+          },
+          {
+              "id": "b",
+              "text": "What's the address?"
+          },
+          {
+              "id": "c",
+              "text": "Can I take a message?"
+          },
+          {
+              "id": "d",
+              "text": "Is that Emma?"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 29,
+      "question": "A: __\nB: Well, we could go swimming.",
+      "options": [
+          {
+              "id": "a",
+              "text": "How are you feeling today?"
+          },
+          {
+              "id": "b",
+              "text": "What shall we do this afternoon?"
+          },
+          {
+              "id": "c",
+              "text": "OK. I'll get my swimming costume."
+          },
+          {
+              "id": "d",
+              "text": "It's too cold to go swimming."
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 30,
+      "question": "A: __\nB: From that bus stop over there.",
+      "options": [
+          {
+              "id": "a",
+              "text": "What time does the next train leave?"
+          },
+          {
+              "id": "b",
+              "text": "Where can I get the number 24?"
+          },
+          {
+              "id": "c",
+              "text": "A day return to Oxford, please."
+          },
+          {
+              "id": "d",
+              "text": "How many pieces of hand luggage have you got?"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 31,
+      "question": "I don't like preparing food, but I like __ in restaurants.",
+      "options": [
+          {
+              "id": "a",
+              "text": "cooking"
+          },
+          {
+              "id": "b",
+              "text": "eating"
+          },
+          {
+              "id": "c",
+              "text": "going"
+          },
+          {
+              "id": "d",
+              "text": "taking"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 32,
+      "question": "The plates are in the __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "cups"
+          },
+          {
+              "id": "b",
+              "text": "fridge"
+          },
+          {
+              "id": "c",
+              "text": "cooker"
+          },
+          {
+              "id": "d",
+              "text": "cupboard"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 33,
+      "question": "It's __. Let's go to the beach.",
+      "options": [
+          {
+              "id": "a",
+              "text": "cool and cloudy"
+          },
+          {
+              "id": "b",
+              "text": "cold and foggy"
+          },
+          {
+              "id": "c",
+              "text": "sunny and warm"
+          },
+          {
+              "id": "d",
+              "text": "wet and windy"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 34,
+      "question": "I didn't have much time, so I did my homework __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "quickly"
+          },
+          {
+              "id": "b",
+              "text": "quietly"
+          },
+          {
+              "id": "c",
+              "text": "finally"
+          },
+          {
+              "id": "d",
+              "text": "deeply"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 35,
+      "question": "We were __ during the film. It wasn't interesting.",
+      "options": [
+          {
+              "id": "a",
+              "text": "worried"
+          },
+          {
+              "id": "b",
+              "text": "bored"
+          },
+          {
+              "id": "c",
+              "text": "careful"
+          },
+          {
+              "id": "d",
+              "text": "hard"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 36,
+      "question": "Rachel talks about __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "her plans for the future"
+          },
+          {
+              "id": "b",
+              "text": "her favourite season"
+          },
+          {
+              "id": "c",
+              "text": "what she did last month"
+          },
+          {
+              "id": "d",
+              "text": "her favourite food"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 37,
+      "question": "Rachel talks about her __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "leisure activities"
+          },
+          {
+              "id": "b",
+              "text": "working life"
+          },
+          {
+              "id": "c",
+              "text": "school days"
+          },
+          {
+              "id": "d",
+              "text": "parents and grandparents"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 38,
+      "question": "Rachel __ when she was a very little girl.",
+      "options": [
+          {
+              "id": "a",
+              "text": "learned to swim"
+          },
+          {
+              "id": "b",
+              "text": "didn't like swimming"
+          },
+          {
+              "id": "c",
+              "text": "lived in the city"
+          },
+          {
+              "id": "d",
+              "text": "rarely went to the beach"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 39,
+      "question": "Rachel __ surfing.",
+      "options": [
+          {
+              "id": "a",
+              "text": "has never been"
+          },
+          {
+              "id": "b",
+              "text": "isn't good at"
+          },
+          {
+              "id": "c",
+              "text": "has won awards for"
+          },
+          {
+              "id": "d",
+              "text": "hates"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 40,
+      "question": "Rachel's brother is __ surfer than his classmates.",
+      "options": [
+          {
+              "id": "a",
+              "text": "an older"
+          },
+          {
+              "id": "b",
+              "text": "a safer"
+          },
+          {
+              "id": "c",
+              "text": "a slower"
+          },
+          {
+              "id": "d",
+              "text": "a better"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 41,
+      "question": "I'm thinking __ to Japan next year.",
+      "options": [
+          {
+              "id": "a",
+              "text": "of going"
+          },
+          {
+              "id": "b",
+              "text": "I go"
+          },
+          {
+              "id": "c",
+              "text": "goes"
+          },
+          {
+              "id": "d",
+              "text": "going"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 42,
+      "question": "One day, I hope __ China.",
+      "options": [
+          {
+              "id": "a",
+              "text": "will visit"
+          },
+          {
+              "id": "b",
+              "text": "visit"
+          },
+          {
+              "id": "c",
+              "text": "visiting"
+          },
+          {
+              "id": "d",
+              "text": "to visit"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 43,
+      "question": "If I __ travelling, I'll send you lots of postcards.",
+      "options": [
+          {
+              "id": "a",
+              "text": "'ll go"
+          },
+          {
+              "id": "b",
+              "text": "went"
+          },
+          {
+              "id": "c",
+              "text": "go"
+          },
+          {
+              "id": "d",
+              "text": "'ll"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 44,
+      "question": "In the future, cities on Mars __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "are being built"
+          },
+          {
+              "id": "b",
+              "text": "can build"
+          },
+          {
+              "id": "c",
+              "text": "will be built"
+          },
+          {
+              "id": "d",
+              "text": "are building"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 45,
+      "question": "All of the sandwiches __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "have been eaten"
+          },
+          {
+              "id": "b",
+              "text": "are eating"
+          },
+          {
+              "id": "c",
+              "text": "been eaten"
+          },
+          {
+              "id": "d",
+              "text": "have eaten"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 46,
+      "question": "A: What are your symptoms?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "I've got a temperature and I feel awful."
+          },
+          {
+              "id": "b",
+              "text": "Just take it easy for a while."
+          },
+          {
+              "id": "c",
+              "text": "I've got food poisoning."
+          },
+          {
+              "id": "d",
+              "text": "Drink plenty of liquids."
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 47,
+      "question": "A: Hello? Hello?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "I'm not sure. Can I get back to you?"
+          },
+          {
+              "id": "b",
+              "text": "Hello? Sorry, it's not a good connection."
+          },
+          {
+              "id": "c",
+              "text": "OK. Speak to you soon."
+          },
+          {
+              "id": "d",
+              "text": "Oh, and can you give Dean a message?"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 48,
+      "question": "A: Mike and Jo are such nice people.\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "I know. There are so many problems."
+          },
+          {
+              "id": "b",
+              "text": "Yes, I don't know how they live in it."
+          },
+          {
+              "id": "c",
+              "text": "You're right. We always have so much fun together."
+          },
+          {
+              "id": "d",
+              "text": "That's true. I don't know where it's all gone."
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 49,
+      "question": "A: __\nB: It's the sixth.",
+      "options": [
+          {
+              "id": "a",
+              "text": "What's the date today?"
+          },
+          {
+              "id": "b",
+              "text": "What year were you born?"
+          },
+          {
+              "id": "c",
+              "text": "What time is it?"
+          },
+          {
+              "id": "d",
+              "text": "What days are national holidays?"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 50,
+      "question": "A: __\nB: Yes, please. It's delicious.",
+      "options": [
+          {
+              "id": "a",
+              "text": "Could you pass the salt, please?"
+          },
+          {
+              "id": "b",
+              "text": "How would you like your coffee?"
+          },
+          {
+              "id": "c",
+              "text": "Would you like some more rice?"
+          },
+          {
+              "id": "d",
+              "text": "Is there any more salad left?"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 51,
+      "question": "She speaks Spanish __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "fluently"
+          },
+          {
+              "id": "b",
+              "text": "hard"
+          },
+          {
+              "id": "c",
+              "text": "good"
+          },
+          {
+              "id": "d",
+              "text": "heavily"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 52,
+      "question": "I need some __. Is there a clothes shop near here?",
+      "options": [
+          {
+              "id": "a",
+              "text": "milk"
+          },
+          {
+              "id": "b",
+              "text": "petrol"
+          },
+          {
+              "id": "c",
+              "text": "flowers"
+          },
+          {
+              "id": "d",
+              "text": "jeans"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 53,
+      "question": "This week, I'm __ research for my science project.",
+      "options": [
+          {
+              "id": "a",
+              "text": "spending"
+          },
+          {
+              "id": "b",
+              "text": "taking"
+          },
+          {
+              "id": "c",
+              "text": "doing"
+          },
+          {
+              "id": "d",
+              "text": "playing"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 54,
+      "question": "A: Sometimes I feel really lonely. I don't think I have many friends.\nB: __! You've got me. I'm always here for you.",
+      "options": [
+          {
+              "id": "a",
+              "text": "I'm delighted"
+          },
+          {
+              "id": "b",
+              "text": "That's fabulous"
+          },
+          {
+              "id": "c",
+              "text": "I get upset"
+          },
+          {
+              "id": "d",
+              "text": "Cheer up"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 55,
+      "question": "I __ my job because the hours were too long.",
+      "options": [
+          {
+              "id": "a",
+              "text": "gave up"
+          },
+          {
+              "id": "b",
+              "text": "took off"
+          },
+          {
+              "id": "c",
+              "text": "put away"
+          },
+          {
+              "id": "d",
+              "text": "went back"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 56,
+      "question": "Greg __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "would like to leave Manchester"
+          },
+          {
+              "id": "b",
+              "text": "hopes to continue studying for another year"
+          },
+          {
+              "id": "c",
+              "text": "hasn't finished his course yet"
+          },
+          {
+              "id": "d",
+              "text": "wasn't studying last year"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 57,
+      "question": "Greg __ Business.",
+      "options": [
+          {
+              "id": "a",
+              "text": "would like to study"
+          },
+          {
+              "id": "b",
+              "text": "is studying"
+          },
+          {
+              "id": "c",
+              "text": "already has a job in"
+          },
+          {
+              "id": "d",
+              "text": "isn't interested in"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 58,
+      "question": "Greg is going to apply for jobs in Leeds and Sheffield __ Manchester.",
+      "options": [
+          {
+              "id": "a",
+              "text": "after trying for a job"
+          },
+          {
+              "id": "b",
+              "text": "as soon as he finds a job"
+          },
+          {
+              "id": "c",
+              "text": "while he's applying for jobs"
+          },
+          {
+              "id": "d",
+              "text": "before he looks for work"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 59,
+      "question": "At the moment, Greg's main focus is __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "his studies"
+          },
+          {
+              "id": "b",
+              "text": "applying for jobs"
+          },
+          {
+              "id": "c",
+              "text": "searching for a flat"
+          },
+          {
+              "id": "d",
+              "text": "preparing to move"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 60,
+      "question": "Greg won't be happy if he doesn't __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "fail his exams"
+          },
+          {
+              "id": "b",
+              "text": "have his exams next month"
+          },
+          {
+              "id": "c",
+              "text": "get work in Leeds or Sheffield"
+          },
+          {
+              "id": "d",
+              "text": "find a job in Manchester"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 61,
+      "question": "The sign says No smoking. We __ to smoke here.",
+      "options": [
+          {
+              "id": "a",
+              "text": "have"
+          },
+          {
+              "id": "b",
+              "text": "aren't allowed"
+          },
+          {
+              "id": "c",
+              "text": "can't"
+          },
+          {
+              "id": "d",
+              "text": "should"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 62,
+      "question": "A: How long have you __ English?\nB: For about six years.",
+      "options": [
+          {
+              "id": "a",
+              "text": "studying"
+          },
+          {
+              "id": "b",
+              "text": "been studying"
+          },
+          {
+              "id": "c",
+              "text": "study"
+          },
+          {
+              "id": "d",
+              "text": "to study"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 63,
+      "question": "If __ told me about your problems, I'd have helped.",
+      "options": [
+          {
+              "id": "a",
+              "text": "you'll"
+          },
+          {
+              "id": "b",
+              "text": "you're"
+          },
+          {
+              "id": "c",
+              "text": "you've"
+          },
+          {
+              "id": "d",
+              "text": "you'd"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 64,
+      "question": "We can text __ after work and arrange a place to meet.",
+      "options": [
+          {
+              "id": "a",
+              "text": "each other"
+          },
+          {
+              "id": "b",
+              "text": "each"
+          },
+          {
+              "id": "c",
+              "text": "us"
+          },
+          {
+              "id": "d",
+              "text": "another"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 65,
+      "question": "I saw Mrs Jones yesterday. She asked me __ hello to you.",
+      "options": [
+          {
+              "id": "a",
+              "text": "say"
+          },
+          {
+              "id": "b",
+              "text": "saying"
+          },
+          {
+              "id": "c",
+              "text": "to say"
+          },
+          {
+              "id": "d",
+              "text": "I said"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 66,
+      "question": "A: __\nB: Oh, dear. I'd love to, but this week I'm so busy.",
+      "options": [
+          {
+              "id": "a",
+              "text": "Are you doing anything next Monday afternoon?"
+          },
+          {
+              "id": "b",
+              "text": "I was wondering if we could meet next Monday morning?"
+          },
+          {
+              "id": "c",
+              "text": "What are you doing next Tuesday evening?"
+          },
+          {
+              "id": "d",
+              "text": "I'm afraid I've already got something to do on Tuesday."
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 67,
+      "question": "A: I failed my driving test again.\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "Absolutely."
+          },
+          {
+              "id": "b",
+              "text": "That's too bad."
+          },
+          {
+              "id": "c",
+              "text": "Fair enough."
+          },
+          {
+              "id": "d",
+              "text": "That's amazing!"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 68,
+      "question": "A: I think you must have made a mistake. I'm pretty sure I gave you a \u00a320 note.\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "Thanks. That's for you."
+          },
+          {
+              "id": "b",
+              "text": "Yes, I'm afraid it is. But it doesn't include tax."
+          },
+          {
+              "id": "c",
+              "text": "Sure. Tell me your account number."
+          },
+          {
+              "id": "d",
+              "text": "Oh, did you? Er ... sorry about that."
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 69,
+      "question": "A: What time will we arrive?\nB: __",
+      "options": [
+          {
+              "id": "a",
+              "text": "Presumably the others will be late."
+          },
+          {
+              "id": "b",
+              "text": "Generally on time."
+          },
+          {
+              "id": "c",
+              "text": "Hopefully in the next hour."
+          },
+          {
+              "id": "d",
+              "text": "Obviously we're late."
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 70,
+      "question": "A: __\nB: Oh, well. You live and learn.",
+      "options": [
+          {
+              "id": "a",
+              "text": "I trusted Adam and he stole my money."
+          },
+          {
+              "id": "b",
+              "text": "I've got ten exams in the next two weeks."
+          },
+          {
+              "id": "c",
+              "text": "I forgot her birthday, so I sent her a text."
+          },
+          {
+              "id": "d",
+              "text": "I wonder if their marriage will last."
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 71,
+      "question": "His attendance is __. Some weeks he comes every day, other weeks he misses several classes.",
+      "options": [
+          {
+              "id": "a",
+              "text": "irregular"
+          },
+          {
+              "id": "b",
+              "text": "unsuitable"
+          },
+          {
+              "id": "c",
+              "text": "untrue"
+          },
+          {
+              "id": "d",
+              "text": "inaccurate"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 72,
+      "question": "I don't eat much fruit. I'm not that __ on it.",
+      "options": [
+          {
+              "id": "a",
+              "text": "crazy"
+          },
+          {
+              "id": "b",
+              "text": "keen"
+          },
+          {
+              "id": "c",
+              "text": "fond"
+          },
+          {
+              "id": "d",
+              "text": "excited"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 73,
+      "question": "A lot of people visited the art gallery to see the painter's __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "service"
+          },
+          {
+              "id": "b",
+              "text": "masterpiece"
+          },
+          {
+              "id": "c",
+              "text": "architecture"
+          },
+          {
+              "id": "d",
+              "text": "headline"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 74,
+      "question": "Two men __ jail last night.",
+      "options": [
+          {
+              "id": "a",
+              "text": "broke out of"
+          },
+          {
+              "id": "b",
+              "text": "sorted out"
+          },
+          {
+              "id": "c",
+              "text": "took up"
+          },
+          {
+              "id": "d",
+              "text": "broke up with"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 75,
+      "question": "I felt bad because my brother and I __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "admitted"
+          },
+          {
+              "id": "b",
+              "text": "accused"
+          },
+          {
+              "id": "c",
+              "text": "quarrelled"
+          },
+          {
+              "id": "d",
+              "text": "criticized"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 76,
+      "question": "Seamus and Andrew became next door neighbours __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "two years after they first met"
+          },
+          {
+              "id": "b",
+              "text": "before they met"
+          },
+          {
+              "id": "c",
+              "text": "after they met at work"
+          },
+          {
+              "id": "d",
+              "text": "because they were friends"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 77,
+      "question": "While they were working, they __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "tried to meet"
+          },
+          {
+              "id": "b",
+              "text": "sometimes met"
+          },
+          {
+              "id": "c",
+              "text": "didn't meet"
+          },
+          {
+              "id": "d",
+              "text": "didn't get along well"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 78,
+      "question": "When they met, they __ the cinema.",
+      "options": [
+          {
+              "id": "a",
+              "text": "hadn't yet been to"
+          },
+          {
+              "id": "b",
+              "text": "were in"
+          },
+          {
+              "id": "c",
+              "text": "were leaving"
+          },
+          {
+              "id": "d",
+              "text": "were coming home from"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 79,
+      "question": "Seamus asked, ' __ to Oak Park Primary School in York?'",
+      "options": [
+          {
+              "id": "a",
+              "text": "Have you ever been"
+          },
+          {
+              "id": "b",
+              "text": "Did you go"
+          },
+          {
+              "id": "c",
+              "text": "Were you going"
+          },
+          {
+              "id": "d",
+              "text": "Had you gone"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 80,
+      "question": "Andrew and Seamus had known each other __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "when they were one or two years old"
+          },
+          {
+              "id": "b",
+              "text": "for about six years, as kids"
+          },
+          {
+              "id": "c",
+              "text": "when they were about six years old"
+          },
+          {
+              "id": "d",
+              "text": "for the past six years"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 81,
+      "question": "A: Will you be at home at nine o'clock tomorrow morning?\nB: No. __ left by then.",
+      "options": [
+          {
+              "id": "a",
+              "text": "I"
+          },
+          {
+              "id": "b",
+              "text": "I've"
+          },
+          {
+              "id": "c",
+              "text": "I'll have"
+          },
+          {
+              "id": "d",
+              "text": "I'd"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 82,
+      "question": "Business is bad. I've earned __ money this year.",
+      "options": [
+          {
+              "id": "a",
+              "text": "very few"
+          },
+          {
+              "id": "b",
+              "text": "much"
+          },
+          {
+              "id": "c",
+              "text": "hardly any"
+          },
+          {
+              "id": "d",
+              "text": "the majority"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 83,
+      "question": "Mr Davis says he's sorry, but he __ be able to help you.",
+      "options": [
+          {
+              "id": "a",
+              "text": "shouldn't"
+          },
+          {
+              "id": "b",
+              "text": "doesn't"
+          },
+          {
+              "id": "c",
+              "text": "can't"
+          },
+          {
+              "id": "d",
+              "text": "won't"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 84,
+      "question": "We __ bought a new laptop. George managed to fix the broken one.",
+      "options": [
+          {
+              "id": "a",
+              "text": "needn't have"
+          },
+          {
+              "id": "b",
+              "text": "can't have"
+          },
+          {
+              "id": "c",
+              "text": "wouldn't have"
+          },
+          {
+              "id": "d",
+              "text": "couldn't have"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 85,
+      "question": "I wish __ a more interesting job.",
+      "options": [
+          {
+              "id": "a",
+              "text": "I have"
+          },
+          {
+              "id": "b",
+              "text": "I had"
+          },
+          {
+              "id": "c",
+              "text": "I'll have"
+          },
+          {
+              "id": "d",
+              "text": "I'd have"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 86,
+      "question": "A: I locked my keys in my car.\nB: __!",
+      "options": [
+          {
+              "id": "a",
+              "text": "What a silly mistake"
+          },
+          {
+              "id": "b",
+              "text": "How wonderful"
+          },
+          {
+              "id": "c",
+              "text": "What a relief"
+          },
+          {
+              "id": "d",
+              "text": "What dreadful weather"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 87,
+      "question": "A: Dmitri wants to apologize.\nB: __? That's interesting.",
+      "options": [
+          {
+              "id": "a",
+              "text": "Has he"
+          },
+          {
+              "id": "b",
+              "text": "Is it"
+          },
+          {
+              "id": "c",
+              "text": "Does he"
+          },
+          {
+              "id": "d",
+              "text": "Are they"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 88,
+      "question": "__, fast food should be banned.",
+      "options": [
+          {
+              "id": "a",
+              "text": "In my opinion"
+          },
+          {
+              "id": "b",
+              "text": "As far as I know"
+          },
+          {
+              "id": "c",
+              "text": "The problem is"
+          },
+          {
+              "id": "d",
+              "text": "If you want"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 89,
+      "question": "A: How are you getting on in your new job?\nB: I'm finding my __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "face"
+          },
+          {
+              "id": "b",
+              "text": "feet"
+          },
+          {
+              "id": "c",
+              "text": "tongue"
+          },
+          {
+              "id": "d",
+              "text": "leg"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 90,
+      "question": "A: Sheila said some terrible things about me.\nB: __, she did apologize. I think you should try to be friends again.",
+      "options": [
+          {
+              "id": "a",
+              "text": "Personally"
+          },
+          {
+              "id": "b",
+              "text": "After all"
+          },
+          {
+              "id": "c",
+              "text": "Hopefully"
+          },
+          {
+              "id": "d",
+              "text": "All the same"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 91,
+      "question": "A: Do you think the diamond was fake?\nB: __ No, not at all. In fact an expert confirmed that it was __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "safe"
+          },
+          {
+              "id": "b",
+              "text": "genuine"
+          },
+          {
+              "id": "c",
+              "text": "sincere"
+          },
+          {
+              "id": "d",
+              "text": "plausible"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 92,
+      "question": "The room looks really tidy. Who put __ the kids' toys?",
+      "options": [
+          {
+              "id": "a",
+              "text": "off"
+          },
+          {
+              "id": "b",
+              "text": "away"
+          },
+          {
+              "id": "c",
+              "text": "on"
+          },
+          {
+              "id": "d",
+              "text": "out"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 93,
+      "question": "A: How was the show?\nB: It was very __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "brilliant"
+          },
+          {
+              "id": "b",
+              "text": "marvellous"
+          },
+          {
+              "id": "c",
+              "text": "funny"
+          },
+          {
+              "id": "d",
+              "text": "excellent"
+          }
+      ],
+      "correctAnswer": "c"
+  },
+  {
+      "id": 94,
+      "question": "A successful marriage requires a lot of __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "ifs or buts"
+          },
+          {
+              "id": "b",
+              "text": "odds and ends"
+          },
+          {
+              "id": "c",
+              "text": "by and large"
+          },
+          {
+              "id": "d",
+              "text": "give and take"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 95,
+      "question": "A: Would you like to go skydiving?\nB: What, jump out of an aeroplane? Not on your __!",
+      "options": [
+          {
+              "id": "a",
+              "text": "way"
+          },
+          {
+              "id": "b",
+              "text": "life"
+          },
+          {
+              "id": "c",
+              "text": "chance"
+          },
+          {
+              "id": "d",
+              "text": "idea"
+          }
+      ],
+      "correctAnswer": "b"
+  },
+  {
+      "id": 96,
+      "question": "Tom __ awake at four thirty or five in the morning.",
+      "options": [
+          {
+              "id": "a",
+              "text": "is rarely"
+          },
+          {
+              "id": "b",
+              "text": "feels angry about being"
+          },
+          {
+              "id": "c",
+              "text": "dislikes being"
+          },
+          {
+              "id": "d",
+              "text": "is usually"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 97,
+      "question": "Tom has his lunch __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "after he's finished work"
+          },
+          {
+              "id": "b",
+              "text": "and then returns to work"
+          },
+          {
+              "id": "c",
+              "text": "at breakfast time"
+          },
+          {
+              "id": "d",
+              "text": "while he's working"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 98,
+      "question": "Tom __ with his friends on Friday and Saturday nights.",
+      "options": [
+          {
+              "id": "a",
+              "text": "no longer goes out"
+          },
+          {
+              "id": "b",
+              "text": "loves going out with"
+          },
+          {
+              "id": "c",
+              "text": "was never able to go"
+          },
+          {
+              "id": "d",
+              "text": "wishes he had spent more time"
+          }
+      ],
+      "correctAnswer": "a"
+  },
+  {
+      "id": 99,
+      "question": "Tom eventually __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "left his job as a lorry driver"
+          },
+          {
+              "id": "b",
+              "text": "fell asleep while driving and had a serious accident"
+          },
+          {
+              "id": "c",
+              "text": "changed his working schedule so he could go out with his friends"
+          },
+          {
+              "id": "d",
+              "text": "stopped staying out late on Friday and Saturday nights"
+          }
+      ],
+      "correctAnswer": "d"
+  },
+  {
+      "id": 100,
+      "question": "Nowadays, Tom __.",
+      "options": [
+          {
+              "id": "a",
+              "text": "works different hours"
+          },
+          {
+              "id": "b",
+              "text": "spends more time with his friends"
+          },
+          {
+              "id": "c",
+              "text": "drives a taxi"
+          },
+          {
+              "id": "d",
+              "text": "is a lorry driver"
+          }
+      ],
+      "correctAnswer": "a"
+  }
   ]
 }

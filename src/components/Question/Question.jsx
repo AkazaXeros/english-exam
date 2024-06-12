@@ -10,7 +10,7 @@ const Question = ({ data, setSelectedOption, selectedOption }) => {
 
   return (
     <div className={styles.card}>
-      <h2>
+      <h3>
         {data.id}.{' '}
         {splitQuestionText.map((part, index) => (
           <span key={index}>
@@ -18,7 +18,7 @@ const Question = ({ data, setSelectedOption, selectedOption }) => {
             <br />
           </span>
         ))}
-      </h2>
+      </h3>
       <ul>
         {data.options.map((option) => (
           <li
