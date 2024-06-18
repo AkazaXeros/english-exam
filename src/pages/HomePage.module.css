@@ -2,7 +2,6 @@
 .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     min-height: 100vh;
     background-color: #f0f0f0;
@@ -19,4 +18,24 @@
   .introText p {
     margin-bottom: 20px;
 }
-  
+
+.buttonContainer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+
+@media (min-width: 768px) {
+  .buttonContainer {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .buttonContainer {
+    max-width: 800px;
+  }
+}

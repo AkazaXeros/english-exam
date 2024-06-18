@@ -91,7 +91,9 @@ const Register = ({ userHandler }) => {
         value={city}
         required
       />
-      <Button type="submit" label="Submit" className="register-button" />
+      <div className={styles.buttonContainer}>
+        <Button type="submit" label="Submit" className="register-button" />
+      </div>
     </form>
   );
 };

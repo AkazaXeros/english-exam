@@ -23,12 +23,14 @@ const HomePage = () => {
           <strong>Let’s begin!</strong>
         </p>
       </div>
-      <Button
-        label="Next"
-        type="button"
-        handlerFunction={() => navigate('/register')}
-        className="next-button"
-      />
+      <div className={styles.buttonContainer}>
+        <Button
+          label="Next"
+          type="button"
+          handlerFunction={() => navigate('/register')}
+          className="next-button"
+        />
+      </div>
     </div>
   );
 };

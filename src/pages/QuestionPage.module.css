@@ -48,7 +48,6 @@
     display: flex;
     justify-content: flex-end;
     gap: 20px;
-    /* width: 100%; */
     width: 350px;
     margin-bottom: 20px;
   }

@@ -1,11 +1,13 @@
 .form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
     max-width: 400px;
-    width: 100%;
-    text-align: center;
+    width: 320px;
   }
   
 .form label {
@@ -15,7 +17,7 @@
   }
   
 .form input {
-    width: calc(100% - 24px);
+    max-width: 350px;
     padding: 8px 12px;
     margin-bottom: 16px;
     border: 1px solid #ccc;
@@ -27,6 +29,18 @@
     border-color: #333;
     outline: none;
   }
+
+.form button {
+  justify-items: flex-end;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  max-width: 350px;
+  margin-bottom: 20px;
+}
   
 @media (min-width: 768px) {
     .form {
