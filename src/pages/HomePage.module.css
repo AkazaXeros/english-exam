@@ -27,6 +27,12 @@
   margin-bottom: 20px;
 }
 
+.sourceLayout {
+  padding: 12px; 
+  border-left: 4px solid #d0d0d0; 
+  font-style: italic;
+ }
+
 
 @media (min-width: 768px) {
   .buttonContainer {

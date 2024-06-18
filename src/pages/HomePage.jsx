@@ -22,6 +22,9 @@ const HomePage = () => {
         <p>
           <strong>Let’s begin!</strong>
         </p>
+        <p className={styles.sourceLayout}>
+          Source: New Headway Placement Test
+        </p>
       </div>
       <div className={styles.buttonContainer}>
         <Button
