@@ -1,5 +1,3 @@
-//TODO: Incluir fecha de nacimiento, nacionalidad y lugar de residencia.
-
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
@@ -93,12 +91,7 @@ const Register = ({ userHandler }) => {
         value={city}
         required
       />
-      <Button
-        type="submit"
-        handlerFunction={() => console.log('Button clicked')}
-        label="Submit"
-        className="register-button"
-      />
+      <Button type="submit" label="Submit" className="register-button" />
     </form>
   );
 };

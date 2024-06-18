@@ -1,0 +1,22 @@
+/* HomePage.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .introText {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 20px;
+    max-width: 600px;
+  }
+  
+  .introText p {
+    margin-bottom: 20px;
+}
+  

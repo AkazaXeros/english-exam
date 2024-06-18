@@ -24,6 +24,12 @@
   /* width: 100%; */
   margin-bottom: 20px;
 }
+
+.textLayout {
+ padding: 12px; 
+ border-left: 4px solid #d0d0d0; 
+ font-style: italic;
+}
   
   .cardWrapper {
     display: flex;
@@ -34,7 +40,6 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 350px;
-    /* width: 100%; */
     margin-bottom: 20px;
     text-align: center;
   }
@@ -47,4 +52,51 @@
     width: 350px;
     margin-bottom: 20px;
   }
+
+/* Media query for medium screens */
+@media (min-width: 768px) {
+  .section {
+      max-width: 600px;
+  }
+
+  .section h2 {
+      width: 550px;
+  }
+
+  .textWrapper {
+      width: 550px;
+  }
+
+  .cardWrapper {
+      width: 550px;
+  }
+
+  .buttonContainer {
+      width: 550px;
+  }
+}
+
+/* Media query for large screens */
+@media (min-width: 1024px) {
+  .section {
+      max-width: 800px;
+  }
+
+  .section h2 {
+      width: 750px;
+  }
+
+  .textWrapper {
+      width: 750px;
+  }
+
+  .cardWrapper {
+      width: 750px;
+  }
+
+  .buttonContainer {
+      width: 750px;
+  }
+}
+  
   
