@@ -28,7 +28,9 @@ const ResultsPage = ({ score, user, mistakes }) => {
       `Birth date: ${user.birthDate}\n` +
       `Nationality: ${user.nationality}\n` +
       `City of Residence: ${user.city}\n` +
-      `Unanswered questions: ${emptyMistakes}\n` +
+      `Unanswered questions: ${
+        emptyMistakes.length > 0 ? emptyMistakes : 0
+      }\n` +
       `Level: ${calculateLevel(score)}\n`;
 
     const templateParams = {

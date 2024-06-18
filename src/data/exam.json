@@ -1265,7 +1265,7 @@
   },
   {
       "id": 58,
-      "question": "Greg is going to apply for jobs in Leeds and Sheffield __ Manchester.",
+      "question": "Greg is going to apply for jobs in Leeds and Sheffield __ in Manchester.",
       "options": [
           {
               "id": "a",
@@ -2024,7 +2024,7 @@
   },
   {
       "id": 91,
-      "question": "A: Do you think the diamond was fake?\nB: __ No, not at all. In fact an expert confirmed that it was __.",
+      "question": "A: Do you think the diamond was fake?\nB: No, not at all. In fact an expert confirmed that it was __.",
       "options": [
           {
               "id": "a",
